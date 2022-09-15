@@ -158,6 +158,16 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/9_ewpgli.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/9_ewpgli.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/9_ewpgli.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
+        name: Team
+        link: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
+        module: Team
+        logo: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
+            name: Team
+            text: Team
 slider:
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: tst
