@@ -140,24 +140,6 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/3_ph9s9f.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/3_ph9s9f.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/3_ph9s9f.png
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
-            name: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
-            text: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
-            name: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
-            text: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
-            name: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
-            text: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/7_qzz0wo.png
-            name: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/7_qzz0wo.png
-            text: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/7_qzz0wo.png
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/8_xca73d.png
-            name: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/8_xca73d.png
-            text: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/8_xca73d.png
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/9_ewpgli.png
-            name: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/9_ewpgli.png
-            text: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/9_ewpgli.png
       - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
         name: Team
         link: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
@@ -168,6 +150,9 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
             name: Team
             text: Team
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
+            name: Team Details
+            text: Team Details
 slider:
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: tst
