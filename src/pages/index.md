@@ -28,6 +28,9 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153089/We%20Desk/We%20Desk%20Admin/Agents/agent_profile_xsbqmb.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153089/We%20Desk/We%20Desk%20Admin/Agents/agent_profile_xsbqmb.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153089/We%20Desk/We%20Desk%20Admin/Agents/agent_profile_xsbqmb.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Tickets/Closed_Tickets_e2igr9.png
+            name: Closed Tickets
+            text: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Tickets/Closed_Tickets_e2igr9.png
       - img: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Add_Agents_ujlfgs.png
         name: Add Agent
         link: https://www.figma.com/proto/OQsm65hw2qJiavQAgKQe7K/We-Desk?page-id=0%3A1&node-id=400%3A601&viewport=121%2C-40%2C0.07&scaling=min-zoom&starting-point-node-id=74%3A333&show-proto-sidebar=1
