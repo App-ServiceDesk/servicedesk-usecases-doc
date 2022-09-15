@@ -153,6 +153,25 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
             name: Team Details
             text: Team Details
+      - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
+        name: Agent Tickets
+        link: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
+        module: Agent Tickets
+        logo: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/6_bce5dv.png
+            name: Open Tickets
+            text: Open Tickets
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/7_qzz0wo.png
+            name: Closed Tickets
+            text: Closed Tickets
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/8_xca73d.png
+            name: Escalated Tickets
+            text: Escalated Tickets
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/9_ewpgli.png
+            name: Priority Tickets
+            text: Priority Tickets
 slider:
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: tst
