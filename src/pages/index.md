@@ -140,46 +140,46 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/3_ph9s9f.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/3_ph9s9f.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/3_ph9s9f.png
-      - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
         name: Team
-        link: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
+        link: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
         module: Team
-        logo: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
+        logo: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
         useCaseSlider:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
             name: Team
             text: Team
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
             name: Team Details
             text: Team Details
-      - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
         name: Agent Tickets
-        link: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
+        link: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
         module: Agent Tickets
-        logo: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/5_ysqoue.png
+        logo: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
         useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/6_bce5dv.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/6_tmx7y9.png
             name: Open Tickets
             text: Open Tickets
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/7_qzz0wo.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/7_tbhyv8.png
             name: Closed Tickets
             text: Closed Tickets
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/8_xca73d.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/8_cuvqe1.png
             name: Escalated Tickets
             text: Escalated Tickets
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153438/We%20Desk/We%20Desk%20Group%20Lead/9_ewpgli.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/9_a7zzc6.png
             name: Priority Tickets
             text: Priority Tickets
-      - img: https://res.cloudinary.com/papu/image/upload/v1663253194/We%20Desk/We%20Desk%20Group%20Lead/10_ha9zln.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1663254113/We%20Desk/We%20Desk%20Group%20Lead/10_tbuvnc.png
         name: Ticket Detail
-        link: https://res.cloudinary.com/papu/image/upload/v1663253194/We%20Desk/We%20Desk%20Group%20Lead/10_ha9zln.png
-        screenshots: https://res.cloudinary.com/papu/image/upload/v1663253194/We%20Desk/We%20Desk%20Group%20Lead/10_ha9zln.png
+        link: https://res.cloudinary.com/papu/image/upload/v1663254113/We%20Desk/We%20Desk%20Group%20Lead/10_tbuvnc.png
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663254113/We%20Desk/We%20Desk%20Group%20Lead/10_tbuvnc.png
         module: Ticket Detail
-        logo: https://res.cloudinary.com/papu/image/upload/v1663253194/We%20Desk/We%20Desk%20Group%20Lead/10_ha9zln.png
+        logo: https://res.cloudinary.com/papu/image/upload/v1663254113/We%20Desk/We%20Desk%20Group%20Lead/10_tbuvnc.png
         useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1663253194/We%20Desk/We%20Desk%20Group%20Lead/10_ha9zln.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663254113/We%20Desk/We%20Desk%20Group%20Lead/10_tbuvnc.png
             name: Ticket Detail
             text: Ticket Detail
 slider:
