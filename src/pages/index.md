@@ -9,7 +9,7 @@ scenarios:
         name: Admin Dashboard
         link: https://www.figma.com/proto/OQsm65hw2qJiavQAgKQe7K/We-Desk?page-id=0%3A1&node-id=245%3A2796&viewport=121%2C-40%2C0.07&scaling=min-zoom&starting-point-node-id=245%3A2796
         screenshots: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Admin%20Dashboard/We_desk_Dash_Board_uxxjlz.png
-        module: Admin Portal
+        module: Admin Dashboard
         useCaseSlider:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Admin%20Dashboard/We_desk_Dash_Board_uxxjlz.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Admin%20Dashboard/We_desk_Dash_Board_uxxjlz.png
