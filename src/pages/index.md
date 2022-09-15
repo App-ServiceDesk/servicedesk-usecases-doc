@@ -111,6 +111,16 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Facebook_c7zdum.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Facebook_c7zdum.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Facebook_c7zdum.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Chat/Chat_wj0bfi.png
+        name: Chat
+        link: https://www.figma.com/proto/OQsm65hw2qJiavQAgKQe7K/We-Desk?page-id=0%3A1&node-id=165%3A759&viewport=121%2C-40%2C0.07&scaling=scale-down-width&starting-point-node-id=74%3A333
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Chat/Chat_wj0bfi.png
+        module: Chat
+        logo: https://res.cloudinary.com/papu/image/upload/v1618827131/icrisat/1PSDSAdmin/PSDS_Admin_h2rcrg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Chat/Chat_wj0bfi.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Chat/Chat_wj0bfi.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Chat/Chat_wj0bfi.png
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
 slider:
