@@ -70,6 +70,18 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Team_View_nzgloc.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Team_View_nzgloc.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Team_View_nzgloc.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Social_Team_vwzslt.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Social_Team_vwzslt.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Social_Team_vwzslt.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Contact_t9y2yr.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Contact_t9y2yr.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Contact_t9y2yr.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Contact_t9y2yr.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Contact_t9y2yr.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Contact_t9y2yr.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Chat_owlzl7.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Chat_owlzl7.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Chat_owlzl7.png
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
 slider:
