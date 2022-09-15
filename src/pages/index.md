@@ -16,7 +16,7 @@ scenarios:
             text: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Admin%20Dashboard/We_desk_Dash_Board_uxxjlz.png
         logo: https://res.cloudinary.com/papu/image/upload/v1618827131/icrisat/1PSDSAdmin/PSDS_Admin_h2rcrg
       - img: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Active_agents_siaz9h.png
-        name: Admin
+        name: Active Agent
         screenshots: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Active_agents_siaz9h.png
         module: Active Agent
         logo: https://res.cloudinary.com/papu/image/upload/v1618827131/icrisat/1PSDSAdmin/PSDS_Admin_h2rcrg
