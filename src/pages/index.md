@@ -102,6 +102,15 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Social_okkvzg.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Social_okkvzg.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Social_okkvzg.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Facebook_c7zdum.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Facebook_c7zdum.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Facebook_c7zdum.png
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
 slider:
