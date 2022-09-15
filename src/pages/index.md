@@ -3,7 +3,7 @@ templateKey: index-page
 title: NewDashboardtest
 scenarios:
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
-    name: Procurement Admin - test1
+    name: Procurement Admin - test1-2
     subItems:
       - img: https://res.cloudinary.com/papu/image/upload/v1661773604/Final%20Procurement/Admin%20Dashboard/Admin_Dashboard_lj1pxm.png
         name: Admin Portal
