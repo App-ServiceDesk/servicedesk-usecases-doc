@@ -28,6 +28,16 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153089/We%20Desk/We%20Desk%20Admin/Agents/agent_profile_xsbqmb.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153089/We%20Desk/We%20Desk%20Admin/Agents/agent_profile_xsbqmb.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153089/We%20Desk/We%20Desk%20Admin/Agents/agent_profile_xsbqmb.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Add_Agents_ujlfgs.png
+        name: Add Agent
+        link: https://www.figma.com/proto/OQsm65hw2qJiavQAgKQe7K/We-Desk?page-id=0%3A1&node-id=400%3A601&viewport=121%2C-40%2C0.07&scaling=min-zoom&starting-point-node-id=74%3A333&show-proto-sidebar=1
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Add_Agents_ujlfgs.png
+        module: Agent
+        logo: https://res.cloudinary.com/papu/image/upload/v1618827131/icrisat/1PSDSAdmin/PSDS_Admin_h2rcrg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Add_Agents_ujlfgs.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Add_Agents_ujlfgs.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Add_Agents_ujlfgs.png
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
 slider:
