@@ -60,6 +60,16 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Tickets/1_of_2_kfb7oq.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Tickets/1_of_2_kfb7oq.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Tickets/1_of_2_kfb7oq.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Team_View_nzgloc.png
+        name: Team
+        link: https://www.figma.com/proto/OQsm65hw2qJiavQAgKQe7K/We-Desk?page-id=0%3A1&node-id=700%3A1598&viewport=121%2C-40%2C0.07&scaling=scale-down-width&starting-point-node-id=74%3A333
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Team_View_nzgloc.png
+        module: Team view
+        logo: https://res.cloudinary.com/papu/image/upload/v1618827131/icrisat/1PSDSAdmin/PSDS_Admin_h2rcrg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Team_View_nzgloc.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Team_View_nzgloc.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153087/We%20Desk/We%20Desk%20Admin/Team%20View/Team_View_nzgloc.png
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
 slider:
