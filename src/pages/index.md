@@ -85,6 +85,23 @@ scenarios:
         screenshots: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Customer/Customer_s3fki7.p
         module: Customer
         logo: https://res.cloudinary.com/papu/image/upload/v1618827131/icrisat/1PSDSAdmin/PSDS_Admin_h2rcrg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Customer/Customer_s3fki7.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Customer/Customer_s3fki7.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Customer/Customer_s3fki7.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Add_Customer_m1g1kq.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Add_Customer_m1g1kq.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Agents/Add_Customer_m1g1kq.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Social_okkvzg.png
+        name: Socail
+        link: https://www.figma.com/proto/OQsm65hw2qJiavQAgKQe7K/We-Desk?page-id=0%3A1&node-id=802%3A678&viewport=121%2C-40%2C0.07&scaling=scale-down-width&starting-point-node-id=74%3A333
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Social_okkvzg.png
+        module: Social
+        logo: https://res.cloudinary.com/papu/image/upload/v1618827131/icrisat/1PSDSAdmin/PSDS_Admin_h2rcrg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Social_okkvzg.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Social_okkvzg.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Social_okkvzg.png
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
 slider:
