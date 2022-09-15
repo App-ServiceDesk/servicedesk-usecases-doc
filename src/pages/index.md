@@ -51,6 +51,9 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Tickets/Tickets_vagli4.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Tickets/Tickets_vagli4.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153088/We%20Desk/We%20Desk%20Admin/Tickets/Tickets_vagli4.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663246837/We%20Desk/We%20Desk%20Admin/Tickets/Pending_Tickets_1_eefl23.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663246837/We%20Desk/We%20Desk%20Admin/Tickets/Pending_Tickets_1_eefl23.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663246837/We%20Desk/We%20Desk%20Admin/Tickets/Pending_Tickets_1_eefl23.png
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: CTO
 slider:
