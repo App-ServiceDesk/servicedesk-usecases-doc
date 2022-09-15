@@ -105,9 +105,9 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
-            name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
-            text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Linked_in_mh2tzm.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/twitter_wcvbfy.png
+            name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/twitter_wcvbfy.png
+            text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/twitter_wcvbfy.png
           - img: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Facebook_c7zdum.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Facebook_c7zdum.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153086/We%20Desk/We%20Desk%20Admin/Socail/Facebook_c7zdum.png
