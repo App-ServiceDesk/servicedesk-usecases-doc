@@ -140,7 +140,7 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/3_ph9s9f.png
             name: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/3_ph9s9f.png
             text: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/3_ph9s9f.png
-      - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
+      - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/4_rqagxg.png
         name: Team
         link: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
         screenshots: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
