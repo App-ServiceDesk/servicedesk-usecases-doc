@@ -147,7 +147,7 @@ scenarios:
         module: Team
         logo: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
         useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1663153439/We%20Desk/We%20Desk%20Group%20Lead/4_esr43p.png
+          - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/4_rqagxg.png
             name: Team
             text: Team
           - img: https://res.cloudinary.com/papu/image/upload/v1663254112/We%20Desk/We%20Desk%20Group%20Lead/5_vgepb4.png
