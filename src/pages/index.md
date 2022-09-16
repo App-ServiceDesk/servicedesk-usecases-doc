@@ -182,6 +182,51 @@ scenarios:
           - img: https://res.cloudinary.com/papu/image/upload/v1663254113/We%20Desk/We%20Desk%20Group%20Lead/10_tbuvnc.png
             name: Ticket Detail
             text: Ticket Detail
+  - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+    name: Agent
+    subItems:
+      - img: https://res.cloudinary.com/papu/image/upload/v1663328579/We%20Desk/We%20Desk%20Agent/1_wgx2co.jpg
+        name: Agent
+        link: https://res.cloudinary.com/papu/image/upload/v1663328579/We%20Desk/We%20Desk%20Agent/1_wgx2co.jpg
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663328579/We%20Desk/We%20Desk%20Agent/1_wgx2co.jpg
+        module: Agent
+        logo: https://res.cloudinary.com/papu/image/upload/v1663328579/We%20Desk/We%20Desk%20Agent/1_wgx2co.jpg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+            name: Dashboard
+            text: Dashboard
+      - img: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/2_rnxi4b.jpg
+        name: Tickets Status
+        link: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/2_rnxi4b.jpg
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/2_rnxi4b.jpg
+        module: Tickets Status
+        logo: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/2_rnxi4b.jpg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/2_rnxi4b.jpg
+            name: Closed Tickets
+            text: Closed Tickets
+          - img: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/3-open-tckt_hmbbf6.jpg
+            name: Open Tickets
+            text: Open Tickets
+          - img: https://res.cloudinary.com/papu/image/upload/v1663328577/We%20Desk/We%20Desk%20Agent/4-escl-tckt_xebwuw.jpg
+            name: Escalated Tickets
+            text: Escalated Tickets
+      - img: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/5-hp_l4lwwa.jpg
+        name: Ticket Priority
+        link: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/5-hp_l4lwwa.jpg
+        screenshots: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/5-hp_l4lwwa.jpg
+        module: Ticket Priority
+        logo: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/5-hp_l4lwwa.jpg
+        useCaseSlider:
+          - img: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/5-hp_l4lwwa.jpg
+            name: High Priority Tickets
+            text: High Priority Tickets
+          - img: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/6-lp_jr3mzz.jpg
+            name: Low Priority Tickets
+            text: Low Priority Tickets
+          - img: https://res.cloudinary.com/papu/image/upload/v1663328579/We%20Desk/We%20Desk%20Agent/7-mp_nhattc.jpg
+            name: Medium Priority Tickets
+            text: Medium Priority Tickets
 slider:
   - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
     name: tst
