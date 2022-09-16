@@ -192,7 +192,7 @@ scenarios:
         module: Agent
         logo: https://res.cloudinary.com/papu/image/upload/v1663328579/We%20Desk/We%20Desk%20Agent/1_wgx2co.jpg
         useCaseSlider:
-          - img: https://res.cloudinary.com/papu/image/upload/v1618828004/icrisat/2General-Director/Director_General_cbam6k.svg
+          - img: https://res.cloudinary.com/papu/image/upload/v1663328579/We%20Desk/We%20Desk%20Agent/1_wgx2co.jpg
             name: Dashboard
             text: Dashboard
       - img: https://res.cloudinary.com/papu/image/upload/v1663328578/We%20Desk/We%20Desk%20Agent/2_rnxi4b.jpg
